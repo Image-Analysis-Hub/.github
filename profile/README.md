@@ -207,8 +207,10 @@ We are currently working on developing its next major version with a full redesi
 <a href="https://fiji.sc/"><img src="https://fiji.sc/site/logo.png" align="left" height="100" /></a>
 
 Fiji is an image processing package — a "batteries-included" distribution of ImageJ, bundling many plugins which facilitate scientific image analysis.
-We have been core contributors of the Fiji project since its inception.
+It builds on top of the ImageJ2 and ImageJ core and is today one of the most used and cited scientific software tool.
+We have been core contributors of the Fiji project since its inception, and contributed and maintained a set of plugins and utilities in Fiji, some of which are listed above.
 Today, the Fiji core development is carried mainly by the team of Kevin Eliceiri in the University of Madison, with whom we collaborate.
+The Institut Pasteur, Paris hosts a mirror for the Fiji software, including plugins.
 
 
 
