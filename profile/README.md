@@ -1,7 +1,6 @@
 # Image Analysis tools - Institut Pasteur
 
-<img src="assets/IP_Logo_Noir_RVB.png" alt="IP_Logo_Noir_RVB" style="zoom:15%;" />
-<img src="assets/CNRS-logo.png" alt="IP_Logo_Noir_RVB" style="zoom:10%;" />
+<img src="assets/IP_Logo_Noir_RVB.png" alt="IP_Logo_Noir_RVB" height="150" />  <img src="assets/CNRS-logo.png" alt="IP_Logo_Noir_RVB" height="150" />
 
 This organization contains repositories of the tools developed by bioimage analysis engineers of the Institute Pasteur, Paris, developed within two collaborating teams:
 
@@ -15,8 +14,6 @@ They are **Findable** (we link and introduce them here), **Accessible** (you wil
 
 
 
-[TOC]
-
 
 
 
@@ -24,7 +21,7 @@ They are **Findable** (we link and introduce them here), **Accessible** (you wil
 
 ### [clEsperanto](https://github.com/clEsperanto)
 
-<a href="https://github.com/clEsperanto"><img src="assets/cle-logo.png" alt="deproj-logo" style="zoom:15%;" align="left" margin="10" /></a>
+<a href="https://github.com/clEsperanto"><img src="assets/cle-logo.png" alt="deproj-logo" height="100" align="left" margin="10" /></a>
 
 clEsperanto is a GPU-accelerated image processing library that offers your favorite image processing functions on GPU, a unified API accessible across various programming languages, and broad compatibility with different hardware and systems.
 It is a large project involving several contributors, and it has its own Github org (https://github.com/clEsperanto).
@@ -35,7 +32,7 @@ Our work there results from a collaboration with [Robert Haase](https://haeslein
 
 ### [DeProj](https://github.com/Image-Analysis-Hub/DeProj)
 
-<a href="https://github.com/Image-Analysis-Hub/DeProj"><img src="assets/deproj-logo.png" alt="deproj-logo" style="zoom:25%;" align="left" margin="10" /></a>
+<a href="https://github.com/Image-Analysis-Hub/DeProj"><img src="assets/deproj-logo.png" alt="deproj-logo" height="150" align="left" margin="10" /></a>
 
 DeProj is a MATLAB app made to yield accurate morphological measurements on cells in epithelia or tissues.
 Typically, it works from 1/ a binary mask, from the segmentation of the apical surface of cells in tissue and 2/ a height map of the corresponding tissue (the Z position for all X, Y), and generates several morphological measurements on the cells, corrected for the curvature of the tissue.
@@ -73,7 +70,7 @@ Paper:
 
 ### [LocalZProjector](https://github.com/Image-Analysis-Hub/LocalZProjector)
 
-<a href="https://github.com/Image-Analysis-Hub/LocalZProjector"><img src="assets/LocalZProjectorLogo-512-text.png" alt="LocalZProjectorLogo-512-text" style="zoom:25%;" align="left" /></a>
+<a href="https://github.com/Image-Analysis-Hub/LocalZProjector"><img src="assets/LocalZProjectorLogo-512-text.png" alt="LocalZProjectorLogo-512-text" height="150" align="left" /></a>
 
 Local Z Projector (LZP) is an ImageJ2 plugin to perform local-Z projection of a 3D stack, possibly over time, possibly very large.
 It processes images of epithelial tissues where the apical surface is curved but has no folds. 
@@ -96,7 +93,7 @@ Paper:
 
 ### [MaMuT](https://github.com/trackmate-sc/MaMuT)
 
-<a href=""><img src="https://imagej.net/media/icons/mamut.png" align="left" style="zoom:50%;" /></a>
+<a href=""><img src="https://imagej.net/media/icons/mamut.png" align="left" height="150" /></a>
 
 MaMuT is a [Fiji](https://fiji.sc/) plugin that combines the [BigDataViewer](https://imagej.net/plugins/bdv) and [TrackMate](https://imagej.net/plugins/trackmate) in an application that allow browsing, tracking cells and curating annotations for large 3D+T image data, possibly over multiple views (in the case of SPIM).
 The code results from a collaboration with lab of Pavel Tomancak, and is part of the dedicated [TrackMate org](http://github.com/trackmate-sc/).
@@ -115,7 +112,7 @@ Paper:
 
 ### [Mastodon](https://github.com/mastodon-sc/mastodon)
 
-<a href="https://github.com/mastodon-sc/mastodon"><img src="https://github.com/mastodon-sc/mastodon/blob/master/doc/Mastodon-logo-512x512.png?raw=true"  align="left" style="zoom:25%;" /></a>
+<a href="https://github.com/mastodon-sc/mastodon"><img src="https://github.com/mastodon-sc/mastodon/blob/master/doc/Mastodon-logo-512x512.png?raw=true" align="left" height="150" /></a>
 
 Mastodon is a large-scale tracking and track-editing framework for large, multi-view images, such as the ones that are typically generated in the domain Development Biology or Stem-Cell Biology or Cell Biology.
 It is our effort to provide a framework that can track cells, curate tracks and analyze tracks in very large movies, following millions of objects in 3D+T, multiview, in a powerful and user-friendly tool.
@@ -135,7 +132,7 @@ Paper:
 
 ### [Multiview-Stitcher](https://github.com/multiview-stitcher/multiview-stitcher)
 
-<a href="https://github.com/multiview-stitcher/multiview-stitcher"><img src="https://github.com/multiview-stitcher/multiview-stitcher/blob/main/docs/images/logo_color.png?raw=true" align="left" style="zoom:15%;" /></a>
+<a href="https://github.com/multiview-stitcher/multiview-stitcher"><img src="https://github.com/multiview-stitcher/multiview-stitcher/blob/main/docs/images/logo_color.png?raw=true" align="left" height="100" /></a>
 
 Multiview-stitcher is an open-source modular toolbox for distributed and tiled stitching of 2-3D image data in Python. 
 It is a collection of algorithms to register and fuse small and large datasets from multi-positioning and multi-view light sheet microscopy, as well as other modalities such as correlative cryo-EM datasets. 
@@ -148,7 +145,7 @@ It has its own [Github org](https://github.com/multiview-stitcher) in which you 
 
 ### [Pycellin](https://github.com/image-Analysis-Hub/pycellin)
 
-<a href="https://github.com/image-Analysis-Hub/pycellin"><img src="https://github.com/Image-Analysis-Hub/pycellin/raw/main/pycellin_logo.png" align="left" style="zoom:5%;" /></a>
+<a href="https://github.com/image-Analysis-Hub/pycellin"><img src="https://github.com/Image-Analysis-Hub/pycellin/raw/main/pycellin_logo.png" align="left" height="100" /></a>
 
 Pycellin is a graph-based Python framework to easily manipulate and analyze cell tracking data, at the single-cell level. 
 In particular, it is made to analyze lineages comprising cell divisions, and can extract quantitative measurements linked to these events.
@@ -195,7 +192,7 @@ We are core contributors of several of them, supporting their development and be
 
 ### [Icy](https://icy.bioimageanalysis.org/)
 
-<a href="https://icy.bioimageanalysis.org/"><img src="https://imagej.net/imagej-wiki-static/images/3/37/Icy-icon.png" align="left" style="zoom:25%;" /></a>
+<a href="https://icy.bioimageanalysis.org/"><img src="https://imagej.net/imagej-wiki-static/images/3/37/Icy-icon.png" align="left" height="100" /></a>
 
 Icy is a ioiomage analysis platform written in Java for its core.
 It offers to users a core user interface to open, inspect, and analyze microscopy images, along with a set of advanced image analysis and processing algorithms.
@@ -207,7 +204,7 @@ We are currently working on developing its next major version with a full redesi
 
 ### [Fiji](https://fiji.sc/)
 
-<a href="https://fiji.sc/"><img src="https://fiji.sc/site/logo.png" align="left" style="zoom:15%;" /></a>
+<a href="https://fiji.sc/"><img src="https://fiji.sc/site/logo.png" align="left" height="100" /></a>
 
 Fiji is an image processing package — a "batteries-included" distribution of ImageJ, bundling many plugins which facilitate scientific image analysis.
 We have been core contributors of the Fiji project since its inception.
@@ -215,9 +212,11 @@ Today, the Fiji core development is carried mainly by the team of Kevin Eliceiri
 
 
 
+
+
 ### [Scipion](https://scipion.i2pc.es/)
 
-<a href="https://scipion.i2pc.es/"><img src="https://scipion-em.github.io/docs/release-3.0.0/_images/scipion_logo_nobackground.png" align="left" style="zoom:10%;" /></a>
+<a href="https://scipion.i2pc.es/"><img src="https://scipion-em.github.io/docs/release-3.0.0/_images/scipion_logo_nobackground.png" align="left" height="100" /></a>
 
 Scipion is an image processing framework for obtaining 3D models of macromolecular complexes using Electron Microscopy (3DEM). 
 It integrates several software packages and presents a unified interface for both biologists and developers. 
