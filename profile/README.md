@@ -7,7 +7,7 @@ This organization contains repositories of the tools developed by bioimage analy
 - [Image Analysis Hub](https://research.pasteur.fr/en/team/image-analysis-hub/) of Pasteur's Technology Department
 - [Developmental and Stem Cell Biology Department](https://research.pasteur.fr/en/department/developmental-stem-cell-biology/) / CNRS UMR3738 of Institut Pasteur.
 
-We are research engineers and a significant part of our work is the creation of custom image anlaysis pipelines for our users, tailored to their projects, developed in a collaborative manner.
+We are research engineers and a significant part of our work is the creation of custom image analysis pipelines for our users, tailored to their projects, developed in a collaborative manner.
 Often, these developments materialized in widely usable tools, that we make available to the scientific community.
 These tools are all included in this repository or linked from this page. 
 They are **Findable** (we link and introduce them here), **Accessible** (you will find installation instructions, that work, for all of them), **Interoperable** (we build them within existing ecosystems) and **Reusable** (they have a scope and a usability more general than the specific project they were built for).
@@ -114,7 +114,7 @@ Paper:
 <a href="https://github.com/trackmate-sc/MaMuT"><img src="https://imagej.net/media/icons/mamut.png" align="left" height="150" /></a>
 
 MaMuT is a [Fiji](https://fiji.sc/) plugin that combines the [BigDataViewer](https://imagej.net/plugins/bdv) and [TrackMate](https://imagej.net/plugins/trackmate) in an application that allow browsing, tracking cells and curating annotations for large 3D+T image data, possibly over multiple views (in the case of SPIM).
-The code results from a collaboration with lab of Pavel Tomancak, and is part of the dedicated [TrackMate org](http://github.com/trackmate-sc/).
+The code results from a collaboration with the lab of Pavel Tomancak, and is part of the dedicated [TrackMate org](http://github.com/trackmate-sc/).
 It is still maintained, but today it has been superseded by Mastodon (see below).
 
 [Documentation](https://imagej.net/plugins/mamut/)
@@ -134,7 +134,7 @@ Paper:
 
 Mastodon is a large-scale tracking and track-editing framework for large, multi-view images, such as the ones that are typically generated in the domain Development Biology or Stem-Cell Biology or Cell Biology.
 It is our effort to provide a framework that can track cells, curate tracks and analyze tracks in very large movies, following millions of objects in 3D+T, multiview, in a powerful and user-friendly tool.
-The core code results from a collaboration with lab of Pavel Tomancak and its several extensions involve many excellent collaborators. 
+The core code results from a collaboration with the lab of Pavel Tomancak and its several extensions involve many excellent collaborators. 
 Because Mastodon is built on several repos with several people, it has its own [Mastodon Github org](https://github.com/mastodon-sc). 
 
 [Documentation](https://mastodon.readthedocs.io/en/latest/)
@@ -212,7 +212,7 @@ We are core contributors of several of them, supporting their development and be
 
 <a href="https://icy.bioimageanalysis.org/"><img src="https://imagej.net/imagej-wiki-static/images/3/37/Icy-icon.png" align="left" height="100" /></a>
 
-Icy is a ioiomage analysis platform written in Java for its core.
+Icy is a bioiomage analysis platform written in Java for its core.
 It offers to users a core user interface to open, inspect, and analyze microscopy images, along with a set of advanced image analysis and processing algorithms.
 It is a modular software composed of a kernel and plugins, with a goal similar to that of Fiji (see below).
 Its main development is carried on by the Biological Image Analysis unit at Institut Pasteur, with whom we collaborate.
