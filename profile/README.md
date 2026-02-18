@@ -96,6 +96,9 @@ The segmentation and/or the tracking can be performed within EpiCure, or the res
 Curation of the segmentation is eased through a lot of options and keyboard shortcuts and potential errors can be flagged to help identifying them.
 Analysis of the results can be directly done within EpiCure and the curated segmentation and measures can be exported in several other formats.
 
+[Documentation](https://image-analysis-hub.github.io/Epicure/)
+
+
 ### [LocalZProjector](https://github.com/Image-Analysis-Hub/LocalZProjector)
 
 <a href="https://github.com/Image-Analysis-Hub/LocalZProjector"><img src="assets/LocalZProjectorLogo-512-text.png" alt="LocalZProjectorLogo-512-text" height="150" align="left" /></a>
