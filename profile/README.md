@@ -88,7 +88,7 @@ Paper:
 
 ### [EpiCure](https://github.com/Image-Analysis-Hub/EpiCure)
 
-<a href="https://github.com/Image-Analysis-Hub/EpiCure"><img src="https://raw.githubusercontent.com/Image-Analysis-Hub/EpiCure/main/doc/imgs/epicure_logo.png" align="left" margin="10" /></a>
+<a href="https://github.com/Image-Analysis-Hub/EpiCure"><img src="https://raw.githubusercontent.com/Image-Analysis-Hub/EpiCure/main/docs/imgs/epicure_logo.png" align="left" margin="10" /></a>
 
 EpiCure is a [napari](https://napari.org/stable/) plugin to ease manual correction of epithelia segmentation movies. 
 It processes 2D images or movies of epithelia development.
