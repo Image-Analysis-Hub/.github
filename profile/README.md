@@ -19,6 +19,7 @@ They are **Findable** (we link and introduce them here), **Accessible** (you wil
       * [<a href="https://github.com/clEsperanto">clEsperanto</a>](https://github.com/clEsperanto)
       * [<a href="https://github.com/Image-Analysis-Hub/DeProj">DeProj</a>](https://github.com/Image-Analysis-Hub/DeProj)
       * [<a href="https://github.com/Image-Analysis-Hub/DeXtrusion">DeXtrusion</a>](https://github.com/Image-Analysis-Hub/DeXtrusion)
+      * [<a href="https://github.com/Image-Analysis-Hub/EpiCure">EpiCure</a>](https://github.com/Image-Analysis-Hub/EpiCure)
       * [<a href="https://github.com/Image-Analysis-Hub/LocalZProjector">LocalZProjector</a>](https://github.com/Image-Analysis-Hub/LocalZProjector)
       * [<a href="https://github.com/trackmate-sc/MaMuT">MaMuT</a>](https://github.com/trackmate-sc/MaMuT)
       * [<a href="https://github.com/mastodon-sc/mastodon">Mastodon</a>](https://github.com/mastodon-sc/mastodon)
@@ -85,6 +86,15 @@ Paper:
 >Development (2023). 150 (13): dev201747. doi: https://doi.org/10.1242/dev.201747
 
 
+### [EpiCure](https://github.com/Image-Analysis-Hub/EpiCure)
+
+<a href="https://github.com/Image-Analysis-Hub/EpiCure"><img src="https://raw.githubusercontent.com/Image-Analysis-Hub/EpiCure/main/doc/imgs/epicure_logo.png" align="left" margin="10" /></a>
+
+EpiCure is a [napari](https://napari.org/stable/) plugin to ease manual correction of epithelia segmentation movies. 
+It processes 2D images or movies of epithelia development.
+The segmentation and/or the tracking can be performed within EpiCure, or the results from other softwares can be loaded.
+Curation of the segmentation is eased through a lot of options and keyboard shortcuts and potential errors can be flagged to help identifying them.
+Analysis of the results can be directly done within EpiCure and the curated segmentation and measures can be exported in several other formats.
 
 ### [LocalZProjector](https://github.com/Image-Analysis-Hub/LocalZProjector)
 
