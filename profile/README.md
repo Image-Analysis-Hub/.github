@@ -29,10 +29,10 @@ They are **Findable** (we link and introduce them here), **Accessible** (you wil
    * [Scientific software platforms](#scientific-software-platforms)
       * [<a href="https://icy.bioimageanalysis.org/" rel="nofollow">Icy</a>](https://icy.bioimageanalysis.org/)
       * [<a href="https://fiji.sc/" rel="nofollow">Fiji</a>](https://fiji.sc/)
-      * [<a href="https://scipion.i2pc.es/" rel="nofollow">Scipion</a>](https://scipion.i2pc.es/)
-
-
-
+      * [<a href="https://scipion.i2pc.es/" rel="nofollow">Scipion</a>](https://scipion.i2pc.es/)     
+   * Pasteur Bioimage Analysis Courses
+       * [<a href="https://github.com/Image-Analysis-Hub/Pasteur-BioImage-Analysis-Course-2025" rel="nofollow">Pasteur Bioimage Analysis Course 2025</a>](https://github.com/Image-Analysis-Hub/Pasteur-BioImage-Analysis-Course-2025)
+      * [<a href="https://github.com/Image-Analysis-Hub/Pasteur-BioImage-Analysis-Course-2025" rel="nofollow">Pasteur Bioimage Analysis Course 2026</a>](https://github.com/Image-Analysis-Hub/Pasteur-BioImage-Analysis-Course-2026)
 
 
 
