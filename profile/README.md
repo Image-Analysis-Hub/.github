@@ -32,7 +32,7 @@ They are **Findable** (we link and introduce them here), **Accessible** (you wil
       * [<a href="https://scipion.i2pc.es/" rel="nofollow">Scipion</a>](https://scipion.i2pc.es/)     
    * Pasteur Bioimage Analysis Courses
        * [<a href="https://github.com/Image-Analysis-Hub/Pasteur-BioImage-Analysis-Course-2025" rel="nofollow">Pasteur Bioimage Analysis Course 2025</a>](https://github.com/Image-Analysis-Hub/Pasteur-BioImage-Analysis-Course-2025)
-      * [<a href="https://github.com/Image-Analysis-Hub/Pasteur-BioImage-Analysis-Course-2025" rel="nofollow">Pasteur Bioimage Analysis Course 2026</a>](https://github.com/Image-Analysis-Hub/Pasteur-BioImage-Analysis-Course-2026)
+      * [<a href="https://github.com/Image-Analysis-Hub/Pasteur-BioImage-Analysis-Course-2026" rel="nofollow">Pasteur Bioimage Analysis Course 2026</a>](https://github.com/Image-Analysis-Hub/Pasteur-BioImage-Analysis-Course-2026)
 
 
 
