@@ -16,10 +16,12 @@ They are **Findable** (we link and introduce them here), **Accessible** (you wil
 **Content**
 
    * [Our Tools](#our-tools)
+      * [Appose Playground](#appose-playground)
       * [<a href="https://github.com/clEsperanto">clEsperanto</a>](https://github.com/clEsperanto)
       * [<a href="https://github.com/Image-Analysis-Hub/DeProj">DeProj</a>](https://github.com/Image-Analysis-Hub/DeProj)
       * [<a href="https://github.com/Image-Analysis-Hub/DeXtrusion">DeXtrusion</a>](https://github.com/Image-Analysis-Hub/DeXtrusion)
       * [<a href="https://github.com/Image-Analysis-Hub/EpiCure">EpiCure</a>](https://github.com/Image-Analysis-Hub/EpiCure)
+      * [<a href="https://github.com/gletort/FishFeats">FishFeats</a>](https://github.com/gletort/FishFeats)
       * [<a href="https://github.com/Image-Analysis-Hub/LocalZProjector">LocalZProjector</a>](https://github.com/Image-Analysis-Hub/LocalZProjector)
       * [<a href="https://github.com/trackmate-sc/MaMuT">MaMuT</a>](https://github.com/trackmate-sc/MaMuT)
       * [<a href="https://github.com/mastodon-sc/mastodon">Mastodon</a>](https://github.com/mastodon-sc/mastodon)
@@ -37,6 +39,16 @@ They are **Findable** (we link and introduce them here), **Accessible** (you wil
 
 
 ## Our Tools
+
+### Appose playground
+
+[Appose](https://github.com/apposed/appose), developed mainly by Curtis Rueden, is a technology that allows to handle automatically python virtual environment directly from Java/python codes and to share the memory between the different environments. 
+Following the [Appose hackaton in Institut Pasteur](https://forum.image.sc/t/appose-hackathon-at-institut-pasteur-outcomes-and-highlights/120693), several Fiji plugins relying on Appose are under active development and can already be used:
+
+ * [Fiji-Cellpose](https://github.com/Image-Analysis-Hub/cellpose-appose) to run [Cellpose](https://www.cellpose.org/) for general cell/nuclei segmentation from Fiji.
+ * [Dextrusion_appose](https://github.com/Image-Analysis-Hub/dextrusion-appose) to run [DeXtrusion](https://github.com/Image-Analysis-Hub/DeXtrusion) to detect cellular events in epithelia movies from Fiji.
+ * [nnInterAppose](https://github.com/Image-Analysis-Hub/nnInterappose) to run [nnInteractive](https://github.com/MIC-DKFZ/nnInteractive) for semi-automatic 3D segmentation (from manual prompts) in Fiji.
+
 
 ### [clEsperanto](https://github.com/clEsperanto)
 
@@ -97,6 +109,19 @@ Curation of the segmentation is eased through a lot of options and keyboard shor
 Analysis of the results can be directly done within EpiCure and the curated segmentation and measures can be exported in several other formats.
 
 [Documentation](https://image-analysis-hub.github.io/Epicure/)
+
+
+### [FishFeats](https://github.com/gletort/FishFeats)
+
+<a href="https://github.com/gletort/FishFeats"><img src="https://raw.githubusercontent.com/gletort/FishFeats/main/docs/imgs/snap.png" align="left" margin="10" /></a>
+
+FishFeats is a [napari](https://napari.org/stable/) plugin to streamline quantification of multimodal labelling at the single cell level in 3D tissues. 
+It processes 3D multichannel images of tissue with junctional and/or nuclear stainings.
+It allows to perform several analysis steps within the same framework, from cell segmentation, nuclei segmentation, RNA-Fish segmentation.
+RNA dots can automatically be assigned to their most likely cell or nucleus in 3D.
+Quantifications and options to perform classification/clustering are proposed. 
+For all steps, manual correction of automatic results is possible and aided through various options.
+[Documentation](https://gletort.github.io/FishFeats/)
 
 
 ### [LocalZProjector](https://github.com/Image-Analysis-Hub/LocalZProjector)
