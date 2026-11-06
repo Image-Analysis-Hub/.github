@@ -130,6 +130,13 @@ Quantifications and options to perform classification/clustering are proposed.
 For all steps, manual correction of automatic results is possible and aided through various options.
 [Documentation](https://gletort.github.io/FishFeats/)
 
+Paper:
+>_FishFeats: streamlined quantification of multimodal labeling at the single-cell level in 3D tissues_
+>
+>Gaëlle Letort, Tanya Foley, Ilona Mignerey, Laure Bally-Cuif, Nicolas Dray
+>
+>Bioinformatics, Volume 42, Issue 3, March 2026, btag105, https://doi.org/10.1093/bioinformatics/btag105
+
 
 ### [LocalZProjector](https://github.com/Image-Analysis-Hub/LocalZProjector)
 
