@@ -110,6 +110,13 @@ Analysis of the results can be directly done within EpiCure and the curated segm
 
 [Documentation](https://image-analysis-hub.github.io/Epicure/)
 
+Paper:
+>_EpiCure (Epithelial Curation): a versatile and handy tool for curation of epithelial segmentation_
+>
+>Gaëlle Letort, Léo Valon, Arthur Michaut, Tom Cumming, Laura Xénard, Minh-Son Phan, Nicolas Dray, Curtis T. Rueden, François Schweisguth, Jérôme Gros, Laure Bally-Cuif, Jean-Yves Tinevez, Romain Levayer
+>
+>Development 1 September 2026; 153 (17): dev205701. doi: https://doi.org/10.1242/dev.205701
+
 
 ### [FishFeats](https://github.com/gletort/FishFeats)
 
