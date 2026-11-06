@@ -192,11 +192,11 @@ Because Mastodon is built on several repos with several people, it has its own [
 [Documentation](https://mastodon.readthedocs.io/en/latest/)
 
 Paper:
->_Mastodon: the Command Center for Large-Scale Lineage-Tracing Microscopy Datasets._
+>_Mastodon: the command center for large-scale lineage-tracing microscopy datasets_
 >
->Johannes Girstmair, Tobias Pietzsch, Vladimir Ulman, Stefan Hahmann, Matthias Arzt, Mette Handberg-Thorsager, Samuel Pantze, Ko Sugawara, Robert Haase, Jean-Yves Tinevez, Pavel Tomancak
+>Johannes Girstmair, Tobias Pietzsch, Vladimir Ulman, Stefan Hahmann, Matthias Arzt, Mette Handberg-Thorsager, Samuel Pantze, Ko Sugawara, Robert Haase, Shuichi Onami, Jean-Yves Tinevez, Pavel Tomancak
 >
->bioRxiv (2025).12.10.693416; doi: https://doi.org/10.64898/2025.12.10.693416
+>Development 2026; dev.205569. doi: https://doi.org/10.1242/dev.205569
 
 
 
