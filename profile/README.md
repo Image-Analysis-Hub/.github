@@ -236,21 +236,37 @@ TrackMate comes with a very wide range of extensions and additions, and is devel
 
 [Documentation](https://imagej.net/plugins/trackmate/)
 
-Papers:
->_TrackMate 7: integrating state-of-the-art segmentation algorithms into tracking pipelines._
->
->Dmitry Ershov, Minh-Son Phan, Joanna W. Pylvänäinen, Stéphane U. Rigaud, Laure Le Blanc, Arthur Charles-Orszag, James R. W. Conway, Romain F. Laine, Nathan H. Roy, Daria Bonazzi, Guillaume Duménil, Guillaume Jacquemet & Jean-Yves Tinevez
->
->Nature Methods (2022). 19(7), 829–832. [doi:10.1038/s41592-022-01507-1](https://www.nature.com/articles/s41592-022-01507-1)
+There are 3 papers that describe the evolution of the core TrackMate along time.
 
+The first paper describe the TrackMate platform, and shows how it can be used for general tracking and documents how it can be extended with custom detectors, trackers and miscellaneous actions: 
 >_TrackMate: An open and extensible platform for single-particle tracking._ 
 >
 >Jean-Yves Tinevez, Nick Perry, Johannes Schindelin, Genevieve M. Hoopes, Gregory D. Reynolds, Emmanuel Laplantine, Sebastian Y. Bednarek, Spencer L. Shorte, Kevin W. Eliceiri
 >
 >Methods (2017). 115, 80–90. [doi:10.1016/j.ymeth.2016.09.016](https://www.sciencedirect.com/science/article/pii/S1046202316303346)
 
+In 2022, we released TrackMate v7. We rewrote the data structure so that TrackMate could support segmentation results in 2D. This allowed us to integrate key segmentation algorithms in TrackMate, relying on machine learning or not, such as Cellpose 1, Ilastik, MorphoLibJ, StarDist, Weka.
+>_TrackMate 7: integrating state-of-the-art segmentation algorithms into tracking pipelines._
+>
+>Dmitry Ershov, Minh-Son Phan, Joanna W. Pylvänäinen, Stéphane U. Rigaud, Laure Le Blanc, Arthur Charles-Orszag, James R. W. Conway, Romain F. Laine, Nathan H. Roy, Daria Bonazzi, Guillaume Duménil, Guillaume Jacquemet & Jean-Yves Tinevez
+>
+>Nature Methods (2022). 19(7), 829–832. [doi:10.1038/s41592-022-01507-1](https://www.nature.com/articles/s41592-022-01507-1)
 
+In 2026, we released TrackMate v8. This version was prompted by many project requests we received from users that needed to track bacteria. We rewrote the plugin and extension mechanisms of TrackMate, to facilitate integrating segmentation and tracking algorithms developed in Python, and shipped with conda or pip. We took this opportunity to integrate Cellpose 3 and Cellpose 4, InTRACKtive Spotiflow, Trackastra, Omnipose, YOLO 8. 
 
+Also we revamped the TrackMate Helper, introduced in the previous paper, that can automatically find an optimal tracking pipeline tailored for a specific dataset. The paper itself is actually a protocol that details how to use it.
+>_Automated Optimization of Bacterial Tracking Pipelines With TrackMate 8_
+>
+>Marie Anselmet, Laura Xénard, Marvin Albert, Rodrigo Arias-Cartin, Samia Hicham, Laura Pokorny, Élodie Paulet, Julienne Petit, Kevin J. Cutler, Benjamin Gallusser, Martin Weigert, Anne-Marie Wehenkel, Giulia Manina, Ivo Gomperts Boneca, Frédéric Barras, Daria Bonazzi, Guillaume Duménil, Jean-Yves Tinevez
+>
+>Current Protocols (2026), e70369, [doi:10.1002/cpz1.70369](https://doi.org/10.1002/cpz1.70369)
+
+There is also a nicely formatted preprint about it:
+>_Automated Optimization of Bacterial Tracking Pipelines with TrackMate 8_
+>
+>Marie Anselmet, Laura Xénard, Marvin Albert, Rodrigo Arias-Cartin, Samia Hicham, Laura Pokorny, Élodie Paulet, Julienne Petit, Kevin J. Cutler, Benjamin Gallusser, Martin Weigert, Anne-Marie Wehenkel, Giulia Manina, Ivo Gomperts Boneca, Frédéric Barras, Daria Bonazzi, Guillaume Duménil, Jean-Yves Tinevez
+>
+>bioRxiv 2026.02.06.704368; [doi:10.64898/2026.02.06.704368](https://doi.org/10.64898/2026.02.06.704368)
 
 
 ## Scientific software platforms
